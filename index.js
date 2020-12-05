@@ -21,5 +21,8 @@ function wrapAdjective(car="*"){
   }
 }
 
-const Calculator{
+const Calculator {
+  add: function(a,b) {
+    return a + b;
+  }}
   
