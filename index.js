@@ -39,7 +39,8 @@ const Calculator = {
   
 }
 
-function actionApplyer(){
+function actionApplyer(begin, arr){
+  return 
   
 }
   
