@@ -40,7 +40,8 @@ const Calculator = {
 }
 
 function actionApplyer(begin, arr){
-  return 
+  let s= begin;
+  for(let i=0;i<arr.length;i++)
   
 }
   
