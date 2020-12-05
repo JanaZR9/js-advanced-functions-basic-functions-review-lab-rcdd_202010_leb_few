@@ -24,5 +24,10 @@ function wrapAdjective(car="*"){
 const Calculator = {
   add: function(a,b) {
     return a + b;
-  }}
+  },
+  
+  substract: function(a,b){
+    return a -b;
+  }
+}
   
