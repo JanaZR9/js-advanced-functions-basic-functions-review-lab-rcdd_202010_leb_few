@@ -42,7 +42,7 @@ const Calculator = {
 function actionApplyer(begin, arr){
   let s= begin;
   for(let i=0;i<arr.length;i++)
-  s=arr[i];
+  s=arr[i](S);
   return s;
 }
   
